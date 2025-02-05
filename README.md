@@ -1,4 +1,7 @@
-# Hi there! 👋 Welcome to my GitHub
+![christopher-lassota-brainstationposter](https://github.com/user-attachments/assets/442a4705-b2b6-4c3b-b620-55fc4feec5f6)
+
+
+## Hi there! 👋 Welcome to my GitHub
 
 I'm a passionate developer, entrepreneur, and lifelong learner! Here's a little about me:
 
